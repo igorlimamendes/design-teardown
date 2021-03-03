@@ -17,3 +17,9 @@
     --gray6: rgb(190, 190, 190);
     --gray7: rgb(200, 200, 200);
 }
+
+body {
+    color: var(--black);
+    background-color: var(--white);
+    font: 10px Arial, Helvetica, sans-serif;
+}
