@@ -41,3 +41,8 @@ body {
         min-width: 6em;
         border-radius: 1em 1em;
     }
+
+    .section1__center {
+        margin: 0 2em;
+        width: 100%;
+    }
