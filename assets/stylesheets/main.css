@@ -52,5 +52,15 @@ body {
     }
 
 @media (max-width: 620px) {
-    
+    .section1 {
+        padding: 0 2em;
+    }
+        .section1__center {
+            width: 6em;
+        }
+        
+        .section1__right {
+            width: 100%;
+            min-width: 6em;
+        }
 }
