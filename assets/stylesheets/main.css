@@ -4,3 +4,16 @@
 * {
     box-sizing: border-box;
 }
+
+:root {
+    --black: #000;
+    --white: #fff;
+    --disc: #e62d1c;
+    --gray1: rgb(50, 50, 50);
+    --gray2: rgb(65, 65, 65);
+    --gray3: rgb(75, 75, 75);
+    --gray4: rgb(90, 90, 90);
+    --gray5: rgb(120, 120, 120);
+    --gray6: rgb(190, 190, 190);
+    --gray7: rgb(200, 200, 200);
+}
