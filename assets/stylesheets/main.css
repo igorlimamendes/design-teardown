@@ -23,3 +23,13 @@ body {
     background-color: var(--white);
     font: 10px Arial, Helvetica, sans-serif;
 }
+
+/* Section 1 */
+.section1 {
+    display: flex;
+    align-items: center;
+    background-color: var(--gray7);
+    height: 10em;
+    padding: 0 5em;
+    overflow: hidden;
+}
