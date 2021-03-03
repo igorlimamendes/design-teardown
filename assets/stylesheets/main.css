@@ -33,3 +33,11 @@ body {
     padding: 0 5em;
     overflow: hidden;
 }
+    .section1__left,
+    .section1__center,
+    .section1__right {
+        background-color: var(--gray5);
+        height: 5em;
+        min-width: 6em;
+        border-radius: 1em 1em;
+    }
