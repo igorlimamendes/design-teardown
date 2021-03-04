@@ -149,3 +149,12 @@ body {
         margin: 3em 1em;
         border-radius: 1em 1em;
     }
+
+    .section3__bottom {
+        flex-flow: row wrap;
+        padding: 0 1em;
+    }
+        .section3__bottom__box {
+            width: 32.3%;
+            margin: 0 0 2em;
+        }
