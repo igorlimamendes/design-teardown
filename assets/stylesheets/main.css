@@ -220,3 +220,9 @@ body {
         height: 10em;
         width: 60em;
     }
+
+    .section4__box4 {
+        background-color: var(--gray3);
+        height: 10em;
+        width: 40em;
+    }
