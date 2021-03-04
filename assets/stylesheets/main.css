@@ -234,9 +234,25 @@ body {
     }
 
 @media (max-width: 768px) {
+    .section4 {
+        padding: 5em 2em;
+    }
+        .section4__box2,
+        .section4__box3,
+        .section4__box4,
+        .section4__box5 {
+            width: 100%;
+            min-width: 15em;
+        }
 
+        .section4__box5 {
+            height: 35em;
+        }
 }
 
 @media (max-width: 425px) {
-
+    .section4__box1 {
+        width: 100%;
+        min-width: 15em;
+    }
 }
