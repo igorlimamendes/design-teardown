@@ -265,3 +265,14 @@ body {
     flex-flow: row wrap;
     justify-content: space-between;
 }
+    .section5__box {
+        background-color: var(--gray5);
+        height: 45em;
+        width: 48%;
+        margin-top: 5em;
+        border-radius: 1em 1em;
+    }
+
+    .section5__box:first-of-type {
+        background-color: var(--gray4);
+    }
