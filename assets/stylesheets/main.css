@@ -94,3 +94,13 @@ body {
             min-width: 15em;
             border-radius: 1em 1em;
         }
+
+    .section2__right {
+        grid-area: right;
+    }
+        .section2__right__box {
+            background-color: var(--gray2);
+            height: 60em;
+            min-width: 15em;
+            border-radius: 1em 1em;
+        }
