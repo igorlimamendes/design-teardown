@@ -127,4 +127,17 @@ body {
     background-color: var(--gray7);
     padding: 5em 4em;
 }
-
+    .section3__top,
+    .section3__bottom {
+        display: flex;
+        justify-content: space-between;
+    }
+        .section3__top__box,
+        .section3__bottom__box {
+            background-color: var(--gray3);
+            height: 40em;
+            width: 100%;
+            min-width: 15em;
+            margin: 0 1em;
+            border-radius: 1em 1em;
+        }
