@@ -160,5 +160,26 @@ body {
         }
 
 @media (max-width: 768px) {
-    
+    .section3 {
+        padding: 5em 2em;
+    }
+        .section3__top,
+        .section3__bottom {
+            padding: 0;
+            flex-flow: column nowrap;
+        }
+            .section3__top__box,
+            .section3__bottom__box {
+                margin: 1em 0;
+                height: 20em;
+            }
+        
+        .section3__middle {
+            height: 30em;
+            margin: 3em 0;
+        }
+
+        .section3__bottom__box {
+            width: 100%;
+        }
 }
