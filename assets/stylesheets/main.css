@@ -201,3 +201,10 @@ body {
         border-radius: 1em 1em;
         margin-top: 5em;
     }
+
+    .section4__box1 {   
+        background-color: var(--gray5);
+        height: 5em;
+        width: 30em;
+        margin: 0;
+    }
