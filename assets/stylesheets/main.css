@@ -141,3 +141,11 @@ body {
             margin: 0 1em;
             border-radius: 1em 1em;
         }
+
+    .section3__middle {
+        background-color: var(--gray1);
+        height: 60em;
+        min-width: 15em;
+        margin: 3em 1em;
+        border-radius: 1em 1em;
+    }
