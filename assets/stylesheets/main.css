@@ -276,3 +276,11 @@ body {
     .section5__box:first-of-type {
         background-color: var(--gray4);
     }
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 425px) {
+
+}
