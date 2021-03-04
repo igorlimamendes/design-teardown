@@ -77,3 +77,20 @@ body {
     grid-gap: 0 15em;
     padding: 5em;
 }
+    .section2__left {
+        grid-area: left;
+    }
+        .section2__left__box1 {
+            background-color: var(--gray1);
+            height: 40em;
+            min-width: 15em;
+            border-radius: 1em 1em;
+        }
+
+        .section2__left__box2 {
+            background-color: var(--gray4);
+            margin-top: 4em;
+            height: 20em;
+            min-width: 15em;
+            border-radius: 1em 1em;
+        }
