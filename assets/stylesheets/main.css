@@ -226,3 +226,9 @@ body {
         height: 10em;
         width: 40em;
     }
+
+    .section4__box5 {
+        background-color: var(--gray4);
+        height: 60em;
+        width: 60em;
+    }
