@@ -106,5 +106,18 @@ body {
         }
 
 @media (max-width: 768px) {
-    
+    .section2 {
+        grid-gap: 5em 0;
+        grid-template-areas:
+            "left left"
+            "right right";
+        padding: 5em 2em;
+    }
+        .section2__left__box1 {
+            height: 20em;
+        }
+
+        .section2__right__box {
+            background-color: var(--gray4);
+        }
 }
