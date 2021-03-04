@@ -193,3 +193,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+    .section4__box1,
+    .section4__box2,
+    .section4__box3,
+    .section4__box4,
+    .section4__box5 {
+        border-radius: 1em 1em;
+        margin-top: 5em;
+    }
