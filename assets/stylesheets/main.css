@@ -278,9 +278,15 @@ body {
     }
 
 @media (max-width: 768px) {
-
+    .section5 {
+        padding: 0 2em 5em;
+    }
 }
 
 @media (max-width: 425px) {
-
+    .section5__box {
+        width: 100%;
+        min-width: 15em;
+        height: 25em;
+    }
 }
