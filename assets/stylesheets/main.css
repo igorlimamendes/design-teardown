@@ -121,3 +121,10 @@ body {
             background-color: var(--gray4);
         }
 }
+
+/* Section 3 */
+.section3 {
+    background-color: var(--gray7);
+    padding: 5em 4em;
+}
+
