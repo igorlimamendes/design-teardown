@@ -430,3 +430,12 @@ body {
     .section8__box1 {
         background-color: var(--gray5);
     }
+
+    .section8__box2 {
+        background-color: var(--gray1);
+        margin: 3em 0;
+        padding: 1em;
+        height: auto;
+        width: auto;
+        overflow: hidden;
+    }
