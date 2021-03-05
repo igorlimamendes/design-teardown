@@ -335,3 +335,7 @@ body {
             width: 40em;
             border-radius: 1em 1em;
         }
+
+    .section6__right {
+        grid-area: right;
+    }
