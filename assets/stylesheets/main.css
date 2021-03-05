@@ -447,3 +447,12 @@ body {
             list-style: none;
             line-height: 1.5;
         }
+            .section8__box2__list li::before {
+                content: '•';
+                margin: 0 .1em;
+                display: inline-block;
+                color: var(--disc);
+                font-size: calc(1.8em + ((.4vw + .25vh)/ 2));
+                position: relative;
+                top: 6.5px;
+            }
