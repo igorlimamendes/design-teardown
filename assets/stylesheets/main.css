@@ -426,3 +426,7 @@ body {
         width: 20em;
         border-radius: 1em 1em;
     }
+
+    .section8__box1 {
+        background-color: var(--gray5);
+    }
