@@ -303,3 +303,6 @@ body {
     grid-gap: 0 10em;
     padding: 5em;
 }
+    .section6__left {
+        grid-area: left;
+    }
