@@ -477,9 +477,21 @@ body {
     }
 
 @media (max-width: 768px) {
-    
+    .section8 {
+        padding: 4em 1em;
+    }
 }
 
 @media (max-width: 600px) {
-
+    .section8__box1,
+    .section8__box2,
+    .section8__box3,
+    .section8__box4 {
+        width: 100%;
+        min-width: 6em;
+    }
+    
+    .section8__box2__list li {
+        margin: 0 .5em;
+    }
 }
