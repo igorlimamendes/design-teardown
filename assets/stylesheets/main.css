@@ -475,3 +475,11 @@ body {
         background-color: var(--gray4);
         margin-top: 2.5em;
     }
+
+@media (max-width: 768px) {
+    
+}
+
+@media (max-width: 600px) {
+
+}
