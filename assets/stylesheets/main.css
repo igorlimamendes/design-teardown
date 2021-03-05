@@ -348,5 +348,21 @@ body {
         }
 
 @media (max-width: 768px) {
-    
+    .section6 {
+        grid-template-areas:
+            "left left"
+            "right right";
+        padding: 5em 2em;
+    }
+        .section6__left__box1,
+        .section6__left__box2,
+        .section6__left__box3,
+        .section6__left__box4 {
+            width: 100%;
+            min-width: 15em;
+        }
+
+        .section6__right {
+            margin-top: 10em;
+        }
 }
