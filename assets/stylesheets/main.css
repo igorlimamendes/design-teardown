@@ -456,3 +456,13 @@ body {
                 position: relative;
                 top: 6.5px;
             }
+                .section8__box2__list li a {
+                    text-decoration: none;
+                    color: var(--white);
+                    transition: .1s ease-out;
+                    text-shadow: 1px 1px 1px var(--black);
+                }
+                    .section8__box2__list li a:hover {
+                        color: var(--black);
+                        text-shadow: none;
+                    }
