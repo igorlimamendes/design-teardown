@@ -328,3 +328,10 @@ body {
             margin-bottom: 5em;
             border-radius: 1em 1em;
         }
+
+        .section6__left__box4 {
+            background-color: var(--gray2);
+            height: 10em;
+            width: 40em;
+            border-radius: 1em 1em;
+        }
