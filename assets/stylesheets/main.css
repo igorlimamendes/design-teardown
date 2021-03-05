@@ -470,3 +470,8 @@ body {
     .section8__box3 {
         background-color: var(--gray4);
     }
+
+    .section8__box4 {
+        background-color: var(--gray4);
+        margin-top: 2.5em;
+    }
