@@ -320,3 +320,11 @@ body {
             margin: 5em 0;
             border-radius: 1em 1em;
         }
+
+        .section6__left__box3 {
+            background-color: var(--gray3);
+            height: 20em;
+            width: 100%;
+            margin-bottom: 5em;
+            border-radius: 1em 1em;
+        }
