@@ -290,3 +290,16 @@ body {
         height: 25em;
     }
 }
+
+/* Section 6 */
+.section6 {
+    background-color: var(--gray6);
+    display: grid;
+    grid-template-columns: 60% 1fr;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+        "left right"
+        "left right";
+    grid-gap: 0 10em;
+    padding: 5em;
+}
