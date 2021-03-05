@@ -466,3 +466,7 @@ body {
                         color: var(--black);
                         text-shadow: none;
                     }
+
+    .section8__box3 {
+        background-color: var(--gray4);
+    }
