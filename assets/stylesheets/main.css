@@ -418,3 +418,11 @@ body {
     justify-content: center;
     font: 1.9em 'Merriweather', serif;
 }
+    .section8__box1,
+    .section8__box2,
+    .section8__box3,
+    .section8__box4 {
+        height: 3em;
+        width: 20em;
+        border-radius: 1em 1em;
+    }
