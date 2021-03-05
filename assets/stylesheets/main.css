@@ -366,3 +366,9 @@ body {
             margin-top: 10em;
         }
 }
+
+/* Section 7 */
+.section7 {
+    background-color: var(--gray7);
+    padding: 5em 10em;
+}
