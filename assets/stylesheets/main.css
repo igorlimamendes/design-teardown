@@ -439,3 +439,11 @@ body {
         width: auto;
         overflow: hidden;
     }
+        .section8__box2__list {
+            display: inline-flex;
+            flex-flow: row wrap;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            line-height: 1.5;
+        }
