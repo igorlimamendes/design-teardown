@@ -386,3 +386,11 @@ body {
         flex-flow: row wrap;
         justify-content: space-between;
     }
+        .section7__box2__box {
+            background-color: var(--gray4);
+            height: 25em;
+            width: 48%;
+            min-width: 15em;
+            margin: 2em 0;
+            border-radius: 1em 1em;
+        }
