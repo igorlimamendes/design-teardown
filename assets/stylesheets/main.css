@@ -339,3 +339,10 @@ body {
     .section6__right {
         grid-area: right;
     }
+        .section6__right__box {
+            background-color: var(--gray3);
+            height: 100%;
+            width: 100%;
+            min-height: 40em;
+            border-radius: 1em 1em;
+        }
